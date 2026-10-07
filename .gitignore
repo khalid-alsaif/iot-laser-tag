@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.class
+.idea/
+.DS_Store
+Thumbs.db
+db/
+incremental_db/
+output_files/
+*.bak
+*.mp4
+*.xlsx
